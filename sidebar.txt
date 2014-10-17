@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wya:home|Door43 (wya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wya|d43-wya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wya/archive/master.zip|d43-wya.zip]]
+
+**Recent Changes**
+{{changes>ns = wya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wya|Ethnologue data]]
+
